@@ -3,3 +3,4 @@ simple-salesforce
 python-dotenv
 requests
 streamlit
+langchain
