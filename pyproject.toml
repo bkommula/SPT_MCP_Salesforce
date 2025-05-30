@@ -13,3 +13,7 @@ dependencies = [
 
 [project.scripts]
 salesforce = "server:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
